@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Igor
- *
- */
-module Estruturas {
-}
